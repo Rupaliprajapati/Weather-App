@@ -26,21 +26,21 @@ Ensure you have the following installed:
 
 ### Installation
 
-1. *Clone the repository:*
+1. **Clone the repository:**
 
-   bash
+   ```bash
    git clone https://github.com/yourusername/weather-dashboard.git
 2. **Navigate to the project directory:**
   
-  bash
+  ```bash
         cd weather-app-reactjs
-
+````
 3. **Install the required modules**
-bash
+```bash
        npm install
-
+```
 4. **Running the application**
-bash
+```bash
        npm start
 ```
 This will start the development server and open the application in your default web browser. The application will be running locally at http://localhost:3000.
